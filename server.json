@@ -58,4 +58,8 @@
     }
   ]，
   “缓存”：“https://servers.sidestore.io/servers.json.hash”
+},
+{
+    "name": "[reversewhite]",   //doesn't really matter unless you're sharing this server list with someone else
+    "address": "[2408:825c:5c60:1fdd:8f02:4cb3:e4f9:7782]"
 }
