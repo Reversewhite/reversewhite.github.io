@@ -1,0 +1,61 @@
+{
+  "服务器": [
+    {
+      “名称”：“SideStore”，
+      “地址”：“https://ani.sidestore.io”
+    }，
+    {
+      "name": "SideStore (.app)",
+      “地址”：“https://ani.sidestore.app”
+    }，
+    {
+      "name": "SideStore (.zip)",
+      “地址”：“https://ani.sidestore.zip”
+    }，
+    {
+      “名称”：“SideStore（.xyz）”，
+      “地址”：“https://ani.846969.xyz”
+    }，
+    {
+      “名称”：“nythepegasus”，
+      “地址”：“https://ani.npeg.us”
+    }，
+    {
+      “名称”：“Macley”，
+      “地址”：“http://5.249.163.88:6969”
+    }，
+    {
+      "name": "SeasiDev",
+      “地址”：“https://anisette.seasi.dev”
+    }，
+    {
+      “名称”：“SteX”，
+      "地址": "https://ani.xu30.top"
+    }，
+    {
+      “名称”：“owoellen”，
+      “地址”：“https://ani.owoellen.rocks”
+    }，
+    {
+      “名称”：“iDH 服务器”，
+      “地址”：“https://ani.idevicehacked.com”
+    }，
+    {
+      “名称”：“neoarz”，
+      “地址”：“https://ani.neoarz.xyz”
+    }，
+    {
+      "name": "pythonplayer123",
+      “地址”：“https://ani3server.fly.dev”
+    }，
+    {
+      “名称”：“StikTech”，
+      “地址”：“https://ani.stik.tech”
+    }，
+    {
+      “名称”：“Realmzer”，
+      “地址”：“https://anisette.realmzer.xyz”
+    }
+  ]，
+  “缓存”：“https://servers.sidestore.io/servers.json.hash”
+}
